@@ -1,6 +1,6 @@
 # Maple Library - Library Management System
 
-Maple Library is a C++ terminal-based system project for a school project. This project aims to manage books and members within a library, handling operations such as book issuing, returning, tracking late fees, and managing member balances.
+Maple Library is a basic C++ terminal-based practice system for a school project. This project aims to manage books and members within a library, handling operations such as book issuing, returning, tracking late fees, and managing member balances.
 
 ## Key Features
 
